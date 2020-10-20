@@ -15,7 +15,6 @@
 ### install dependencies
 **Python 3.6 or 3.7** is needed to run the toolbox.
 - IDE `Pycharm`
-- Run `pip install -r requirements.txt` to install the remaining necessary package
 
 ### Mathematical Operations
 -    Addition (+) 
