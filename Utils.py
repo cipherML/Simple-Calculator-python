@@ -1,30 +1,62 @@
+# Addition
 def add(x, y):
-    return x + y
+    try:
+        return x + y
+    except TypeError:
+        return "wrong input"
 
 
+# Subtraction
 def sub(x, y):
-    return x - y
+    try:
+        return x - y
+    except TypeError:
+        return "wrong input"
 
 
+# Multiplication
 def mul(x, y):
-    return x * y
+    try:
+        return x * y
+    except TypeError:
+        return "wrong input"
 
 
+# Division
 def div(x, y):
-    return x / y
+    try:
+        return x / y
+    except TypeError:
+        return "wrong input"
 
 
+# floor division
 def floor_div(x, y):
-    return x // y
+    try:
+        return x // y
+    except TypeError:
+        return "wrong input"
 
 
+# Mod
 def mod(x, y):
-    return x % y
+    try:
+        return x % y
+    except TypeError:
+        return "wrong input"
 
 
-def square(x, y):
-    return x ** y
+# power
+def power(x, y):
+    try:
+        return x ** y
+    except TypeError:
+        return "wrong input"
 
 
+# SquareRoot
 def sqr_root(x, y=0.5):
-    return x**y
+    try:
+        return x**y
+    except TypeError:
+        return "wrong input"
