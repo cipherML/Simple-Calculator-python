@@ -1,0 +1,16 @@
+# General files
+.git
+.idea
+config
+docs
+
+# Development
+.devcontainer
+.vscode
+
+# Other virtualization methods
+venv
+.vagrant
+
+# Temporary files
+**/__pycache__
