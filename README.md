@@ -14,15 +14,15 @@
     
 ## Table of contents
 - [How to download or clone](#Clone)
-- [Mathematical operations](#Mathematical Operations)
-- [Module Examples](#Module examples)
-  * [Addition](#Module examples)
-  * [Subtraction](#Module examples-instapy)
-  * [Multiplication](#Module examples-instapy)
-  * [Division](#Module examples)
-  * [Power](#Module examples)
-  * [Square-root](#Module examples)
-  * [Modulus](#Module examples)
+- [Mathematical operations](#Mathematical-Operations)
+- [Module Examples](#Module-examples)
+  * [Addition](#Module-examples)
+  * [Subtraction](#Module-examples)
+  * [Multiplication](#Module-examples)
+  * [Division](#Module-examples)
+  * [Power](#Module-examples)
+  * [Square-root](#Module-examples)
+  * [Modulus](#Module-examples)
 - [Run](#Run)
 
 ## **Clone**
