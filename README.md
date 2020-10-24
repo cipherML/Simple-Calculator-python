@@ -7,7 +7,10 @@
     <a href="https://www.python.org/">
     	<img src="https://img.shields.io/badge/built%20with-Python3-red.svg" />
     </a>
-    <p align="left">Author: Mayur Pawar  </p>
+    <a href="https://github.com/cipherML?tab=projects">
+    	<img src="https://img.shields.io/badge/Author-Mayur%20Pawar-lightgrey" />
+    </a>
+
  
 ### clone
 `https://github.com/cipherML/Simple-Calculator-python.git`
@@ -15,7 +18,6 @@
 ### install dependencies
 **Python 3.6 or 3.7** is needed to run the toolbox.
 - IDE `Pycharm`
-- Run `pip install -r requirements.txt` to install the remaining necessary package
 
 ### Mathematical Operations
 -    Addition (+) 
