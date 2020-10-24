@@ -7,7 +7,10 @@
     <a href="https://www.python.org/">
     	<img src="https://img.shields.io/badge/built%20with-Python3-red.svg" />
     </a>
-    <p align="left">Author: Mayur Pawar  </p>
+    <a href="https://github.com/cipherML">
+    	<img src="https://img.shields.io/badge/Author-Mayur%20Pawar-lightgrey" />
+    </a>
+  </p>
  
 ### clone
 `https://github.com/cipherML/Simple-Calculator-python.git`
