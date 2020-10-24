@@ -7,34 +7,19 @@
     <a href="https://www.python.org/">
     	<img src="https://img.shields.io/badge/built%20with-Python3-red.svg" />
     </a>
-    <a href="https://github.com/cipherML?tab=projects">
+    <a href="https://github.com/cipherML">
     	<img src="https://img.shields.io/badge/Author-Mayur%20Pawar-lightgrey" />
     </a>
-    
-    
-## Table of contents
-- [How to download or clone](#Clone)
-- [Mathematical operations](#Mathematical Operations)
-- [Module Examples](#Module examples)
-  * [Addition](#Module examples)
-  * [Subtraction](#Module examples-instapy)
-  * [Multiplication](#Module examples-instapy)
-  * [Division](#Module examples)
-  * [Power](#Module examples)
-  * [Square-root](#Module examples)
-  * [Modulus](#Module examples)
-- [Run](#Run)
-
-## **Clone**
-Run this in your terminal: 
-
+  </p>
+ 
+### clone
 `https://github.com/cipherML/Simple-Calculator-python.git`
 
-__Important:__ 
+### install dependencies
 **Python 3.6 or 3.7** is needed to run the toolbox.
 - IDE `Pycharm`
 
-### **Mathematical Operations**
+### Mathematical Operations
 -    Addition (+) 
 -    Subtraction (-)
 -    Multiplication (*)
@@ -44,7 +29,7 @@ __Important:__
 -    mod (%)
 -   floor div (//)
  
-### **Module examples**
+### Module examples
 **Addition**
 
     Calulator: 14+77
@@ -66,7 +51,7 @@ __Important:__
     Calulator: 51%5
     ans= :  1,0
     
-## **Run**
+## Run
 ```python
 
 from myCalculator import TheCalculator
