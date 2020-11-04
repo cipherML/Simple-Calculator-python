@@ -7,7 +7,7 @@
     <a href="https://www.python.org/">
     	<img src="https://img.shields.io/badge/built%20with-Python3-red.svg" />
     </a>
-    <a href="https://github.com/cipherML?tab=projects">
+    <a href="https://github.com/cipherML">
     	<img src="https://img.shields.io/badge/Author-Mayur%20Pawar-lightgrey" />
     </a>
     
